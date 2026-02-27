@@ -39,14 +39,6 @@ My personal portfolio website built with HTML5 and CSS3 as part of the Lawazia T
 A simple 2-player Tic Tac Toe game built using Java Swing. Implements event-driven programming and OOP concepts.
 - **Tech:** Java, Swing, AWT
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-[![Sanket's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sanket17052006&show_icons=true&theme=default&hide_title=true)](https://github.com/Sanket17052006)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanket17052006&layout=compact)](https://github.com/Sanket17052006)
-</div>
 
 ## 🤝 Open Source 
 - Actively exploring codebases and looking for open source projects that aligns with my interest and skills to work on.
